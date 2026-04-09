@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About Me  
-- 💡 Experienced in **Distributed Systems**  , ** Developing api services ** 
-- 🌱 Currently learning **Flink, ETL Pipelines, AWS Glue & Step Functions**  
+- 💡 Experienced in **Distributed Systems**  , **Developing api services** 
+- 🌱 Currently learning **Golang, Flink, ETL Pipelines, AWS Glue & Step Functions**  
 - 💬 Ask me about **Java**  
 - ⚡ Always curious about building scalable systems  
 
