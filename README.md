@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Suvarna  
 
-### 💻 A passionate developer from India 🇮🇳  
-📍 Currently in the UK since 2023 🇬🇧  
+### 💻 A passionate developer from India 
+📍 Senior Software Engineer working in the UK since 2024 
 
 ---
 
